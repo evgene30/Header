@@ -16,3 +16,9 @@
     color: #fff;
     border-color: rgb(139, 139, 139);
 }
+.logo {
+    width: 60px;
+}
+.logo:hover {
+    opacity: 1;
+}
