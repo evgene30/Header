@@ -16,9 +16,20 @@
     color: #fff;
     border-color: rgb(139, 139, 139);
 }
+
 .logo {
     width: 50px;
 }
-.logo:hover {
-    opacity: 1;
+
+.dropdown-menu {
+    background-color: black;
+}
+.dropdown-item {
+    color: white;
+}
+
+.dropdown-item:hover {
+    background-color: rgb(139, 139, 139);
+    color: white;
+    
 }
