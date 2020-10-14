@@ -24,6 +24,7 @@
 .dropdown-menu {
     background-color: black;
 }
+
 .dropdown-item {
     color: white;
 }
@@ -31,5 +32,4 @@
 .dropdown-item:hover {
     background-color: rgb(139, 139, 139);
     color: black;
-
 }
