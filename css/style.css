@@ -9,7 +9,7 @@
 
 body {
     font-family: 'Montserrat';
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -18,7 +18,7 @@ body {
 
 .navbar-dark .navbar-nav .nav-link:hover {
     color: rgb(139, 139, 139);
-    ;
+    transition-duration: .2s;
 }
 
 .btn-outline-dark {
@@ -41,9 +41,15 @@ body {
 
 .dropdown-item {
     color: white;
+    font-size: 14px;
 }
 
 .dropdown-item:hover {
     background-color: rgb(139, 139, 139);
     color: black;
+    transition-duration: .2s;
+}
+
+.nav-link {
+    margin-right: 10px;
 }
